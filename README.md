@@ -2,9 +2,10 @@
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🌱 I’m currently learning **Computer Science**
-
-- 👨‍💻:computer: I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef, Google Contests.**
-
+   :school: I am a `Student` at the [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
+- 👨‍💻:computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- ✍🏻 I love using Software as a solution for every Problem
+- 🤓 Always learning new things
 - 📫 How to reach me **ahmedshawkyx8@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
