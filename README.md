@@ -4,8 +4,7 @@
 - 🌱 I’m currently learning **Computer Science**
 - :school: I am a `Student` at the [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - 👨‍💻 I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
-- 💻 I love using Software as a solution for every Problem
-- 🤓 Always learning new things
+- 💻 I'm *ECPC Finalist* and *Pupil* at `codeforces` 
 - 📫 How to reach me **ahmedshawkyx8@gmail.com**
 
 ## <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3g1YW9jdzg2YjBwNHA4emU4dm01OG5zY3RwZm1kZ3htdndydWtlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9go7FYScTRhLJy7ZfI/giphy.gif" width="5%" > Connect with me
